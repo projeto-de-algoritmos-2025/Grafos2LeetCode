@@ -3,7 +3,7 @@
 
 - **Número da Lista**: 1 <br>
 - **Conteúdo da Disciplina**: Grafos 1 <br>
-- [**Vídeo da Apresentação**](https://youtu.be/tNxvcpbu-UA) <br>
+- [**Vídeo da Apresentação**]() <br>
 
 ## Alunos
 |Matrícula | Aluno |GitHub|
@@ -46,10 +46,10 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 ### Exercício 4 - []()
 
-![](prints/.png)
+![](prints/1928.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) <br>
+- [Resposta](questoes/leetCode_1928.cpp) <br>
 
 ## Instalação 
 **Linguagem**: C++
