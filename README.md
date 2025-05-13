@@ -23,32 +23,32 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 ## Screenshots
 
-### Exercício 1 - []()
+### Exercício 1 - [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)
 
 ![](prints/3342.png)
 - Dificuldade: 🟡 Média <br>
 - Problema: [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) <br>
 - [Resposta](questoes/leetCode_3342.cpp) <br>
 
-### Exercício 2 - []()
+### Exercício 2 - [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
 
 ![](prints/1568.png)
 - Dificuldade: 🔴 Difícil <br>
 - Problema: [1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) <br>
 - [Resposta](questoes/leetCode_1568.cpp) <br>
 
-### Exerício 3 - []()
+### Exerício 3 - [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 ![](prints/1489.png)
 - Dificuldade: 🔴 Difícil <br>
 - Problema: [1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) <br>
 - [Resposta](questoes/leetCode_1489.cpp) <br>
 
-### Exercício 4 - []()
+### Exercício 4 - [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)
 
 ![](prints/1928.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) <br>
+- Problema: [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) <br>
 - [Resposta](questoes/leetCode_1928.cpp) <br>
 
 ## Instalação 
