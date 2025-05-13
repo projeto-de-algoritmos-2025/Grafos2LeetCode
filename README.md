@@ -1,8 +1,8 @@
 # Grafos2LeetCode
 # Exercícios LeetCode
 
-- **Número da Lista**: 1 <br>
-- **Conteúdo da Disciplina**: Grafos 1 <br>
+- **Número da Lista**: 2 <br>
+- **Conteúdo da Disciplina**: Grafos 2 <br>
 - [**Vídeo da Apresentação**]() <br>
 
 ## Alunos
@@ -12,14 +12,14 @@
 | 23/1011426  | Gustavo Gontijo Lima |[Guga301104](https://github.com/guga301104)|
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo de Grafos 1 da disciplina Projeto de Algoritmos, sendo 1 de nível médio e 3 de nível difícil.
+Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo de Grafos 2 da disciplina Projeto de Algoritmos, sendo 1 de nível médio e 3 de nível difícil.
 
 |Exercício | Dificuldade |
 | -- | -- |
 |[3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)|🟡 Médio|
 |[1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)|🔴 Difícil|
 |[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|🔴 Difícil|
-|[]()|🔴 Difícil|
+|[1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|🔴 Difícil|
 
 ## Screenshots
 
