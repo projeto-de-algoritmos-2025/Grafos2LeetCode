@@ -17,8 +17,8 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 |Exercício | Dificuldade |
 | -- | -- |
 |[]()|🟡 Médio|
-|[]()|🔴 Difícil|
-|[]()|🔴 Difícil|
+|[1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)|🔴 Difícil|
+|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|🔴 Difícil|
 |[]()|🔴 Difícil|
 
 ## Screenshots
@@ -32,17 +32,17 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 ### Exercício 2 - []()
 
-![](prints/.png)
+![](prints/1568.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) <br>
+- [Resposta](questoes/leetCode_1568.cpp) <br>
 
 ### Exerício 3 - []()
 
-![](prints/.png)
+![](prints/1489.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) <br>
+- [Resposta](questoes/leetCode_1489.cpp) <br>
 
 ### Exercício 4 - []()
 
