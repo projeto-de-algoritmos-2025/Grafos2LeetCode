@@ -16,7 +16,7 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 |Exercício | Dificuldade |
 | -- | -- |
-|[]()|🟡 Médio|
+|[3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)|🟡 Médio|
 |[1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)|🔴 Difícil|
 |[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|🔴 Difícil|
 |[]()|🔴 Difícil|
@@ -25,10 +25,10 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 ### Exercício 1 - []()
 
-![](prints/.png)
+![](prints/3342.png)
 - Dificuldade: 🟡 Média <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) <br>
+- [Resposta](questoes/leetCode_3342.cpp) <br>
 
 ### Exercício 2 - []()
 
